@@ -7,6 +7,6 @@ In the first line, you are given N which is the number of elements in the array.
 output:
 Prints the remainder of the number of inversions in an array of length N over the number 100 000
 
-![image](https://github.com/user-attachments/assets/ebeb05b7-fc4f-4679-a80a-fe7f67769005)
 
 
+![Capture](https://github.com/user-attachments/assets/6f489784-0c56-458d-b991-e5979698f298)
